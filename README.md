@@ -1,1 +1,4 @@
 # LAB_AT_BMHTTT
+Tên: Lê Thanh Tịnh
+Lớp: 11_ĐH_CNPM2
+MSSV: 1150080160
