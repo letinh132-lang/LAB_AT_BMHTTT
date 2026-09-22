@@ -1,4 +1,4 @@
-Lab1
+Lab3
 Tên Lê Thanh Tịnh
 MSSV 1150080160
 Lớp 11_ĐH_CNPM2
